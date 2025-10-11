@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunesh Bhatt</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **car booking website**
-
 - 🌱 I’m currently learning **AWS,Kafka,Firebase**
 
 - 👯 I’m looking to collaborate on [amazon price tracker chrome extension](https://github.com/arunesh12389/amazon-price-tracker-chrome-extension)
@@ -54,3 +52,5 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunesh12389&show_icons=true&locale=en" alt="arunesh12389" />
 </p>
+
+[![An image of @arunesh12389's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arunesh12389)](https://holopin.io/@arunesh12389)
